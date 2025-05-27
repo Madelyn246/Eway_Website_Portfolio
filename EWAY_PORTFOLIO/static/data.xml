@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+    <home>
+        <name>Madelyn Eway</name>
+        <photo>/static/images/mads.jpeg</photo>
+        <tagline>Turning ideas into Reality!</tagline>
+        <location>Silago, Southern Leyte, Philippines 6607</location>
+        <social>
+            <link url="https://web.facebook.com/profile.php?id=61558363836628">Facebook</link>
+            <link url="https://www.tiktok.com/@madelyneway78?_t=ZS-8wBNdRoqS0n_r=1">TikTok</link>
+        </social>
+    </home>
+
+    <projects>
+        <project id="1">
+            <title>Arduino Projects</title>
+            <description>We create arduino projects from 1-15 to apply our learning in arduino.</description>
+            <technologies>Microcontroller Boards, Sensors, Actuators, Displays, Prototyping Tools</technologies>
+            <link>https://github.com/Madelyn246/Project-1-Arduino-</link>
+        </project>
+        <project id="2">
+            <title>Capstone Project</title>
+            <description>Compilation of our capstone files.</description>
+            <technologies>HTML, CSS, PHP, MYSQL</technologies>
+            <link>https://github.com/Madelyn246/Capstone-Files</link>
+        </project>
+        <project id="3">
+            <title>Portfolio Website</title>
+            <description>A personal website showcasing my work and skills.</description>
+            <technologies>HTML, CSS, JS, Flask</technologies>
+            <link>https://github.com/Madelyn246/Website-Portfolio</link>
+        <project id="4">
+            <title>Systems</title>
+            <description>Compilation of my previous system projects.</description>
+            <technologies>HTML, CSS, PHP, XAMPP, MYSQL</technologies>
+            <link>https://github.com/Madelyn246/Systems</link>
+        </project>
+        <project id="5">
+            <title>Smart Dustbin</title>
+            <description>It is an automatic trash bin that seggregates waste into metal, dry, and wet.</description>
+            <technologies>Arduino, Sensors, Arduino IDE</technologies>
+            <link>https://github.com/Madelyn246/Smart-Dustbin</link>
+        </project>
+        </project>
+    </projects>
+
+    <skills>HTML, CSS, Teamwork, Time Management, EPAS, BPP</skills>
+    <talents>Designing, Conflict Resolution, Peer Mentoring</talents>
+
+    <organizations>
+        <organization id="1">
+            <name>SITS Organization</name>
+            <role>SITS Auditor</role>
+            <years>2024 - 2025</years>
+        </organization>
+        <organization id="2">
+            <name>Helping Sisters' Club</name>
+            <role>Helping Sister of Batch 29</role>
+            <years>2020 - 2021</years>
+        </organization>
+        <organization id="3">
+            <name>Rosary Club</name>
+            <role>Member</role>
+            <years>2016 - 2021</years>
+        </organization>
+        <organization id="4">
+            <name>Sports Club</name>
+            <role>Member</role>
+            <years>2016 - 2018</years>
+        </organization>
+    </organizations>
+
+    <services>
+        <service id="1">
+            <title>Web Design</title>
+            <description>Creating visually appealing and responsive websites.</description>
+        </service>
+        <service id="2">
+            <title>Print Design</title>
+            <description>Creating aesthetic design for printing.</description>
+        </service>
+        <service id="3">
+            <title>Project and Time Management Assistance</title>
+            <description>Time Management Techniques for Students or Teams. Help with Scheduling and Managing Creative Projects</description>
+        </service>
+        <service id="4">
+            <title>Team Collaboration and Mentoring</title>
+            <description>Team Project Coordination Support. Conflict Resolution Support in Group Tasks or School Projects. </description>
+        </service>
+    </services>
+
+    <testimonials>
+        <testimonial id="1">
+            <person>Jhovan P. Balbuena</person>
+            <relation>Classmate</relation>
+            <message>Madelyn is good at designing, showcasing her creativity.</message>
+            <image>/static/images/jhovan.jpg</image>
+        </testimonial>
+        <testimonial id="2">
+            <person>Madel D. Eway</person>
+            <relation>Aunt</relation>
+            <message>Madelyn manages her time efficiently and stays well-organized..</message>
+            <image>/static/images/tita.jpeg</image>
+        </testimonial>
+        <testimonial id="3">
+            <person>Danica Cuevas</person>
+            <relation>Classmate</relation>
+            <message>Madelyn pours her heart into everything she does.</message>
+            <image>/static/images/ara.jpeg</image>
+        </testimonial>
+    </testimonials>
+
+    <contact>
+        <email>madelyneway78@gmail.com</email>
+        <phone>09262317648</phone>
+        <social>
+            <link url="https://web.facebook.com/profile.php?id=61558363836628">Facebook</link>
+            <link url="https://www.tiktok.com/@madelyneway78?_t=ZS-8wBNdRoqS0n_r=1">TikTok</link>
+        </social>
+    </contact>
+</portfolio>
